@@ -1,0 +1,11 @@
+{
+  "name": "Will's Daily Signal",
+  "short_name": "Daily Signal",
+  "description": "Daily W12/West London property and first-time-buyer news, plus Scott Galloway, West Ham, and AI/tech - pulled live from RSS feeds, no AI-generated content.",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f4f4f2",
+  "theme_color": "#1a2a4a",
+  "icons": []
+}
